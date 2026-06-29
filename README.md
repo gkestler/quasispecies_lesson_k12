@@ -3,7 +3,7 @@
 ## 🧪 Run the Simulation Playground
 Click the badge below to open a private copy of the notebook in Google Colab. You can safely run cells, tweak parameters, and experiment without affecting the main repository:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkestler/quasispecies_lesson_k12/blob/main/quasispecies.ipynb?forceCopy=true)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkestler/quasispecies_lesson_k12/blob/main/Quasispecies.ipynb?forceCopy=true)
 
 This interactive Python notebook simulates molecular evolution, Eigen's Paradox, and fitness landscapes using Google Colab.
 
